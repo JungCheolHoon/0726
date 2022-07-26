@@ -1,4 +1,4 @@
-//java.lang 의 클래스나 필드는 인스턴스화를 안해도 되는건가
+
 public class FloatingDemo {
 	public static void main(String[] args) {
 		double avg = 0.08955556789;
