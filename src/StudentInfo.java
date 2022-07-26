@@ -1,3 +1,10 @@
+/*
+ *Author:
+ *When:
+ *Objectives:
+ *Environment:
+*/
+
 import java.util.Scanner;
 public class StudentInfo {
 	public static void main(String[] args) { //프로그램의 시작과 끝
