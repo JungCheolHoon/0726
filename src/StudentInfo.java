@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class StudentInfo {
-	public static void main(String[] args) { //프로그래름의 시작과 끝
+	public static void main(String[] args) { //프로그램의 시작과 끝
 		Scanner sc = new Scanner(System.in) ;
 		
 		System.out.print("오늘 날짜 : ");
